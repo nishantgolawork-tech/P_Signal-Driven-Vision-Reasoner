@@ -1,0 +1,24 @@
+{
+  "image": "examples/input1.jpg",
+  "extracted_features": {
+    "detected_objects": [
+      "cell phone"
+    ],
+    "brightness_score": 122.67,
+    "color_contrast_score": 67.34,
+    "background_color": [
+      103.3676051318603,
+      110.80492199255563,
+      120.3873049813891
+    ],
+    "blur_score": 115.377,
+    "edge_density": 0.023
+  },
+  "llm_analysis": {
+    "image_quality_score": 0.92,
+    "issues_detected": [],
+    "reasoning_summary": "The image demonstrates good sharpness, balanced lighting, and clear contrast. Its very low edge density and neutral background color suggest a clean, uncluttered presentation with a relevant object detected.",
+    "final_verdict": "Suitable",
+    "confidence": 0.95
+  }
+}

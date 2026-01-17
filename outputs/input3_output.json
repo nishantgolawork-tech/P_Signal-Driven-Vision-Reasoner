@@ -1,0 +1,24 @@
+{
+  "image": "examples/input3.jpg",
+  "extracted_features": {
+    "detected_objects": [
+      "airplane"
+    ],
+    "brightness_score": 180.3,
+    "color_contrast_score": 57.74,
+    "background_color": [
+      121.86175856929955,
+      147.79443616492796,
+      180.17057128663686
+    ],
+    "blur_score": 907.978,
+    "edge_density": 0.031
+  },
+  "llm_analysis": {
+    "image_quality_score": 0.87,
+    "issues_detected": [],
+    "reasoning_summary": "The image exhibits excellent sharpness and a very clean background with low edge density. Lighting is good, and color contrast is decent, contributing to overall high quality.",
+    "final_verdict": "Suitable",
+    "confidence": 0.95
+  }
+}

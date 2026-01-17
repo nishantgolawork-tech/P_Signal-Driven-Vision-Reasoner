@@ -1,0 +1,24 @@
+{
+  "image": "examples/input2.jpg",
+  "extracted_features": {
+    "detected_objects": [
+      "clock"
+    ],
+    "brightness_score": 195.23,
+    "color_contrast_score": 87.13,
+    "background_color": [
+      195.22752887019325,
+      195.22752887019325,
+      195.22752887019325
+    ],
+    "blur_score": 7062.455,
+    "edge_density": 0.109
+  },
+  "llm_analysis": {
+    "image_quality_score": 0.9,
+    "issues_detected": [],
+    "reasoning_summary": "The image demonstrates excellent sharpness and strong color contrast, complemented by appropriate brightness. Its background is clean and uniform with low edge density, and a relevant object (clock) was successfully detected.",
+    "final_verdict": "Suitable",
+    "confidence": 0.95
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "image": "examples/input5.webp",
+  "extracted_features": {
+    "detected_objects": [
+      "hot dog",
+      "hot dog",
+      "carrot"
+    ],
+    "brightness_score": 147.32,
+    "color_contrast_score": 60.31,
+    "background_color": [
+      147.017297670141,
+      93.22699264255058,
+      58.494704169221336
+    ],
+    "blur_score": 701.755,
+    "edge_density": 0.008
+  },
+  "llm_analysis": {
+    "image_quality_score": 0.84,
+    "issues_detected": [
+      "Moderate color contrast"
+    ],
+    "reasoning_summary": "The image exhibits good sharpness, a clean background, and relevant content. Lighting is acceptable, though color contrast is moderate.",
+    "final_verdict": "Suitable",
+    "confidence": 0.9
+  }
+}

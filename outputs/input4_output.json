@@ -1,0 +1,24 @@
+{
+  "image": "examples/input4.jpg",
+  "extracted_features": {
+    "detected_objects": [
+      "car"
+    ],
+    "brightness_score": 213.64,
+    "color_contrast_score": 84.54,
+    "background_color": [
+      202.55670478170478,
+      186.21218814968816,
+      189.6551975051975
+    ],
+    "blur_score": 2069.271,
+    "edge_density": 0.099
+  },
+  "llm_analysis": {
+    "image_quality_score": 0.9,
+    "issues_detected": [],
+    "reasoning_summary": "The image demonstrates excellent sharpness, good brightness and color contrast, and a clean, uncluttered background. The detected object 'car' is relevant.",
+    "final_verdict": "Suitable",
+    "confidence": 0.95
+  }
+}

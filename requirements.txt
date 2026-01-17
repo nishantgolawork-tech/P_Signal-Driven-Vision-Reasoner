@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+google-generativeai
+openai
+google-genai
+python-dotenv

@@ -1,0 +1,28 @@
+{
+  "image": "examples/input6.jpg",
+  "extracted_features": {
+    "detected_objects": [
+      "couch",
+      "dining table",
+      "bottle"
+    ],
+    "brightness_score": 188.79,
+    "color_contrast_score": 65.14,
+    "background_color": [
+      178.70046258503402,
+      184.61976054421768,
+      183.32158911564625
+    ],
+    "blur_score": 11.704,
+    "edge_density": 0.008
+  },
+  "llm_analysis": {
+    "image_quality_score": 0.3,
+    "issues_detected": [
+      "Significant blur"
+    ],
+    "reasoning_summary": "The image exhibits significant blur, indicated by a very low blur score of 11.704. While lighting is good, color contrast is decent, and the background is clean with low edge density, the pronounced blur makes the image unsuitable.",
+    "final_verdict": "Not Suitable",
+    "confidence": 0.9
+  }
+}
