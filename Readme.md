@@ -32,8 +32,8 @@ P_Signal Driven Vision Reasoner/
 │   ├── aspect_ratio.py              # Image aspect ratio calculation
 │   ├── exif_meta_information.py     # EXIF metadata extraction
 │   ├── list_all_models.py           # YOLO model utilities
-│   │
-│   ├── Testing:
+│   
+│---tests/
 │   ├── test_all_feature_extracted.py
 │   ├── test_aspect_ratio.py
 │   ├── test_blur.py
